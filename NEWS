@@ -1,3 +1,11 @@
+CHANGES IN VERSION 0.1.1
+-------------------------
+ o updated ols query in vignette (see github issue #6) <2012-12-26 Wed>
+
+CHANGES IN VERSION 0.1.0
+-------------------------
+ o stable release, Bioc 2.11
+
 CHANGES IN VERSION 0.99.12
 --------------------------
  o updated README.md (for github) and .Rbuildignore <2012-09-19 Wed>
