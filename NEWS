@@ -1,3 +1,12 @@
+CHANGES IN VERSION 1.2.1
+------------------------
+ o other example in CVParam-class example, as 
+   PSI ontology is not available <2013-05-02 Thu>
+
+CHANGES IN VERSION 1.2.0
+------------------------
+ o Bioc v2.12
+
 CHANGES IN VERSION 1.1.6
 ------------------------
  o Using knitr as VignetteEngine and visual tweaking <2013-02-17 Sun>
