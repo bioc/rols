@@ -1,3 +1,7 @@
+CHANGES IN VERSION 1.2.2
+------------------------
+ o Fixed isIdObsolete, bug reported by Alex Thomas <2013-07-27 Sat>
+
 CHANGES IN VERSION 1.2.1
 ------------------------
  o other example in CVParam-class example, as 
