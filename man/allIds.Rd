@@ -26,7 +26,6 @@
   getAllTermsFromOntology(String ontologyName)}.
 }
 \examples{
-head(allIds("GO"))
 allIds("MS", simplify=FALSE)
 }
 \author{
