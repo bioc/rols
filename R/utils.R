@@ -5,7 +5,7 @@ rolsDeprecationMessage <- function() {
                  "will undergo changes in its user interface. The current",
                  "interface will be maintained for Bioconductor release 3.2",
                  "and will be discontinued afterwards. Please see",
-                 "https://github.com/lgatto/rols/tree/v2.0 for the new release.")
+                 "https://github.com/lgatto/rols/ for the new release.")
     message(cat(strwrap(msg), sep = "\n"))
 }
 
