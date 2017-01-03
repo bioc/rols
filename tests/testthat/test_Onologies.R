@@ -88,7 +88,7 @@ test_that("Ontology accessors", {
     expect_identical(olsTitle(go), "Uberon Ontology Module for GO")
     expect_identical(olsDesc(go), "An ontology for describing the function of genes and gene products")
 
-    expect_identical(status[[i]], "LOADED")
+##  expect_identical(status[[i]], "LOADED")
     expect_identical(status[[i]], olsStatus(go))
     expect_identical(status[[i]], olsStatus("go"))
     expect_identical(status[[i]], olsStatus("GO"))
