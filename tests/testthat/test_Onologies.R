@@ -85,7 +85,7 @@ test_that("Ontology accessors", {
     expect_identical(ttl[[i]], olsTitle("GO"))
 
 
-    expect_identical(olsTitle(go), "Gene Ontolgy")
+    expect_identical(olsTitle(go), "Gene Ontology")
     expect_identical(olsDesc(go), "An ontology for describing the function of genes and gene products")
 
 ##  expect_identical(status[[i]], "LOADED")
