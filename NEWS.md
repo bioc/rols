@@ -1,11 +1,7 @@
-# rols 2.7
-
-## CHANGES IN VERSION 2.7.1
-- Fix failing partOf unit test <2017-11-27 Mon>
-
-## CHANGES IN VERSION 2.7.0
-- Bioconductor devel 3.7
 # rols 2.6
+
+## CHANGES IN VERSION 2.6.1
+- Fix failing partOf unit test <2017-11-27 Mon>
 
 ## CHANGES IN VERSION 2.6.0
 - Bioconductor release 3.6
