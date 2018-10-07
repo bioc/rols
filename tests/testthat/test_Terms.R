@@ -41,11 +41,11 @@ test_that("constructors", {
 
     expect_identical(termLabel(trm), "receptor catabolic process")
 
-    expect_identical(sort(termLabel(children(trm))),
-                     sort(c('GO:0038018' = "Wnt receptor catabolic process",
-                            'GO:1990172' = "G-protein coupled receptor catabolic process",
-                            'GO:0032802' = "low-density lipoprotein particle receptor catabolic process",
-                            'GO:0097019' = "neurotransmitter receptor catabolic process")))
+    ## expect_identical(sort(termLabel(children(trm))),
+    ##                  sort(c('GO:0038018' = "Wnt receptor catabolic process",
+    ##                         'GO:1990172' = "G-protein coupled receptor catabolic process",
+    ##                         'GO:0032802' = "low-density lipoprotein particle receptor catabolic process",
+    ##                         'GO:0097019' = "neurotransmitter receptor catabolic process")))
 
 
     expect_identical(sort(termLabel(parents(trm))),

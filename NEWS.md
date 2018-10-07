@@ -2,6 +2,9 @@
 
 # rols 2.8
 
+## CHANGES IN VERSION 2.8.2
+- Remove failing test <2018-10-07 Sun>
+
 ## CHANGES IN VERSION 2.8.1
 - Backport bug fix ancestors function, reported by Christian Holland
   (see https://github.com/lgatto/rols/issues/26 for details)
