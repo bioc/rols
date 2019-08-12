@@ -1,3 +1,8 @@
+# rols 2.12
+
+## CHANGES IN VERSION 2.12.1
+- Fix failing test <2019-08-12 Mon>
+
 # rols 2.11
 
 ## CHANGES IN VERSION 2.11.2
