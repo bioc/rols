@@ -1,5 +1,8 @@
 # rols 2.16
 
+## CHANGES IN VERSION 2.16.2
+- Fix failing unit test <2020-06-09 Tue>
+
 ## CHANGES IN VERSION 2.16.1
 - Backport: fix failing unit test (GO description changed) <2020-05-01 Fri>
 
