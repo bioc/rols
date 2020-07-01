@@ -1,5 +1,8 @@
 # rols 2.16
 
+## CHANGES IN VERSION 2.16.3
+- Fix failing unit test (Matched error messsage changed) <2020-07-01 Wed>
+
 ## CHANGES IN VERSION 2.16.2
 - Fix failing unit test <2020-06-09 Tue>
 
