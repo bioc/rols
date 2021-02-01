@@ -1,3 +1,8 @@
+# rols 2.18
+
+## CHANGES IN VERSION 2.18.1
+- Fix failing unit test
+
 # rols 2.17
 
 ## CHANGES IN VERSION 2.17.4
