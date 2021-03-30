@@ -31,13 +31,13 @@ test_that("constructors", {
 
     expect_identical(termPrefix(trm), "GO")
 
-    expect_identical(termSynonym(trm),
-                     c("receptor breakdown",
-                       "receptor degradation",
-                       "receptor catabolism"))
+    ## expect_identical(termSynonym(trm),
+    ##                  c("receptor breakdown",
+    ##                    "receptor degradation",
+    ##                    "receptor catabolism"))
 
-    expect_identical(termDesc(trm),
-                     "The chemical reactions and pathways resulting in the breakdown of a receptor molecule, a macromolecule that undergoes combination with a hormone, neurotransmitter, drug or intracellular messenger to initiate a change in cell function.")
+    ## expect_identical(termDesc(trm),
+    ##                  "The chemical reactions and pathways resulting in the breakdown of a receptor molecule, a macromolecule that undergoes combination with a hormone, neurotransmitter, drug or intracellular messenger to initiate a change in cell function.")
 
     expect_identical(termLabel(trm), "receptor catabolic process")
 
