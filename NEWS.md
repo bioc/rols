@@ -1,3 +1,13 @@
+# rols 2.20
+
+## CHANGES IN VERSION 2.20.1
+
+- Fix failing unit test
+
+## CHANGES IN VERSION 2.20.0
+
+- New release version (Bioc 3.13)
+
 # rols 2.19
 
 ## CHANGES IN VERSION 2.19.4
