@@ -3,6 +3,7 @@
 ## CHANGES IN VERSION 2.21.1
 
 - Fix failing unit test
+- Remove failing CVParams examples
 
 ## CHANGES IN VERSION 2.21.0
 
