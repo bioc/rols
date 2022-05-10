@@ -1,14 +1,8 @@
-# rols 2.25
+# rols 2.24
 
-## CHANGES IN VERSION 2.25.1
+## CHANGES IN VERSION 2.24.1
 
 - Fix error when converting term with missing slots to `data.frame`.
-
-## CHANGES IN VERSION 2.25.0
-
-- New devel version (Bioc 3.16)
-
-# rols 2.24
 
 ## CHANGES IN VERSION 2.24.0
 
