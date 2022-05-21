@@ -1,5 +1,9 @@
 # rols 2.24
 
+## CHANGES IN VERSION 2.24.2
+
+- Fix new error when converting an Ontology to `data.frame`.
+
 ## CHANGES IN VERSION 2.24.1
 
 - Fix error when converting term with missing slots to `data.frame`.
