@@ -1,11 +1,15 @@
-# rols 2.99
+# rols 2.30
 
-## CHANGES IN VERSION 2.99.0
+## CHANGES IN VERSION 2.30.1
 
 - Refactoring to use REST API for OLS4.
 - REST queries now use httr2 instead of superseded `httr`.
 - The term(s) and property constructors are capitalised as `Term()`,
   `Terms()` and `Properties()`.
+
+## CHANGES IN VERSION 2.30.0
+
+- Bioconductor release 3.18.
 
 # rols 2.29
 
