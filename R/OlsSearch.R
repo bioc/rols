@@ -178,6 +178,8 @@ OlsSearch <- function(q,
         nm <- names(.args)[i]
         arg <- .args[[i]]
         arg <- eval(arg, parent.frame())
+        if (is.logical(arg))
+            arg <- ifelse(arg, "true", "false")
         if (is.character(arg))
             arg <- URLencode(arg)
         if (nm == "ontology")

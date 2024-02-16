@@ -1,5 +1,10 @@
 # rols 2.30
 
+
+## CHANGES IN VERSION 2.30.2
+
+- Fix different URI locations (see #42)
+
 ## CHANGES IN VERSION 2.30.1
 
 - Refactoring to use REST API for OLS4.
