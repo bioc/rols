@@ -1,6 +1,6 @@
-# rols 3.7
+# rols 3.6
 
-# rols 3.7.1
+# rols 3.6.1
 
 - Fix bug in `rols::Ontologies()` (see #48)
 
