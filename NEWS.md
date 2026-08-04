@@ -1,6 +1,13 @@
+# rols 3.9
+
+## rols 3.9.1
+
+- Transfer package and maintenance to Sehyun Oh (shbrief). Thank you
+  for taking the package over!
+
 # rols 3.7
 
-# rols 3.7.1
+## rols 3.7.1
 
 - Fix bug in `rols::Ontologies()` (see #48)
 
