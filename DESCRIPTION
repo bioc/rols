@@ -32,4 +32,3 @@ Collate: AllClasses.R AllGenerics.R utils.R
          cvparam.R OlsSearch.R
          Properties.R zzz.R
 RoxygenNote: 7.3.1
-PackageStatus: Deprecated
