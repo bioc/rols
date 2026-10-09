@@ -1,5 +1,15 @@
 # rols 3.8
 
+## rols 3.8.3
+
+- Record the transfer of maintainership to Sehyun Oh (shbrief) on the
+  release branch; `Authors@R` still listed the former maintainer, so
+  build reports and bug mail were routed to the wrong address.
+- Point `URL` and `BugReports` at the current repository and
+  documentation site. The previous `URL` no longer resolved.
+- Stop excluding `NEWS.md` from the built package, so that package news
+  is picked up for the Bioconductor release announcements.
+
 ## rols 3.8.2
 
 - Remove the startup deprecation warning, left over from before the
@@ -31,7 +41,7 @@
 
 # rols 3.7
 
-# rols 3.7.1
+## rols 3.7.1
 
 - Fix bug in `rols::Ontologies()` (see #48)
 
